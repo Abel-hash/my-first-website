@@ -2,7 +2,7 @@
 
 This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
-You can check out the website <a href="https://abel-hash.github.io/my-first-website/" target="_blank">!
+You can check out the website <a href="https://abel-hash.github.io/my-first-website/" target="_blank">here!
 
 ## Project Description
 
